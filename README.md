@@ -20,5 +20,5 @@ Preview Web
 ![unknown](https://user-images.githubusercontent.com/70555673/164527474-359570c9-f6af-484a-9bb4-89315d1c0ea3.png)
 
 ```diff
-Previo link: https://tjay0.github.io/web-template-lcproxy/
+Preview link: https://tjay0.github.io/web-template-lcproxy/
 ```
