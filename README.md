@@ -18,3 +18,7 @@ Preview Web
 ![unknown](https://user-images.githubusercontent.com/70555673/164527445-1e444222-b557-4327-9079-99a1b33d2b8f.png)
 
 ![unknown](https://user-images.githubusercontent.com/70555673/164527474-359570c9-f6af-484a-9bb4-89315d1c0ea3.png)
+
+```diff
+Previo link: https://tjay0.github.io/web-template-lcproxy/
+```
